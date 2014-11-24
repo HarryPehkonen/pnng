@@ -17,6 +17,7 @@
   ],
   "author": "Harry Pehkonen",
   "license": "ISC",
+  "repository": "https://github.com/HarryPehkonen/pnng",
   "devDependencies": {
     "chai": "^1.10.0"
   }

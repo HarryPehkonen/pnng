@@ -1,0 +1,23 @@
+{
+  "name": "pnng",
+  "version": "1.0.0",
+  "description": "Pseudo Normal Number Generator.  Generates random numbers with given standard distribution and mean.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "PRNG",
+    "Normal",
+    "Standard",
+    "Distribution",
+    "Box-Muller",
+    "Transform",
+    "Statistics"
+  ],
+  "author": "Harry Pehkonen",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^1.10.0"
+  }
+}
